@@ -6,7 +6,7 @@
 
 1. Установите [Tampermonkey](https://www.tampermonkey.net) для вашего браузера.
 2. Открываем скрипт [руни](https://raw.githubusercontent.com/sergo1217/wiki-redirect/master/wiki-to-runi.user.js) или [рувики](https://raw.githubusercontent.com/sergo1217/wiki-redirect/master/wiki-to-ruwiki.user.js) и нажмите установить
-4. При первой переадресации скрипт попросить доступ к стороннему ресурсу. Необходимо выбрать "Всегда разрешить для домена"
+4. При первой переадресации скрипт попросит доступ к стороннему ресурсу. Необходимо выбрать "Всегда разрешить для домена"
 
 ### Как это работает
 
